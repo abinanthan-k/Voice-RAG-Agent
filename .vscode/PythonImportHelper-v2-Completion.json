@@ -1,0 +1,1576 @@
+[
+    {
+        "label": "absolute_import",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "whisper",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "whisper",
+        "description": "whisper",
+        "detail": "whisper",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "winreg",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "winreg",
+        "description": "winreg",
+        "detail": "winreg",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "call",
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "isExtraImport": true,
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "errno",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "errno",
+        "description": "errno",
+        "detail": "errno",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "signal",
+        "description": "signal",
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "optparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "optparse",
+        "description": "optparse",
+        "detail": "optparse",
+        "documentation": {}
+    },
+    {
+        "label": "OptionParser",
+        "importPath": "optparse",
+        "description": "optparse",
+        "isExtraImport": true,
+        "detail": "optparse",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Pool",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "cpu_count",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigObj",
+        "importPath": "configobj",
+        "description": "configobj",
+        "isExtraImport": true,
+        "detail": "configobj",
+        "documentation": {}
+    },
+    {
+        "label": "fnmatch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fnmatch",
+        "description": "fnmatch",
+        "detail": "fnmatch",
+        "documentation": {}
+    },
+    {
+        "label": "shlex",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shlex",
+        "description": "shlex",
+        "detail": "shlex",
+        "documentation": {}
+    },
+    {
+        "label": "find_executable",
+        "importPath": "distutils.spawn",
+        "description": "distutils.spawn",
+        "isExtraImport": true,
+        "detail": "distutils.spawn",
+        "documentation": {}
+    },
+    {
+        "label": "basename",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "input",
+        "importPath": "six.moves",
+        "description": "six.moves",
+        "isExtraImport": true,
+        "detail": "six.moves",
+        "documentation": {}
+    },
+    {
+        "label": "loadStorageSchemas",
+        "importPath": "carbon.storage",
+        "description": "carbon.storage",
+        "isExtraImport": true,
+        "detail": "carbon.storage",
+        "documentation": {}
+    },
+    {
+        "label": "loadAggregationSchemas",
+        "importPath": "carbon.storage",
+        "description": "carbon.storage",
+        "isExtraImport": true,
+        "detail": "carbon.storage",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "mmap",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mmap",
+        "description": "mmap",
+        "detail": "mmap",
+        "documentation": {}
+    },
+    {
+        "label": "struct",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "struct",
+        "description": "struct",
+        "detail": "struct",
+        "documentation": {}
+    },
+    {
+        "label": "bisect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bisect",
+        "description": "bisect",
+        "detail": "bisect",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_indiamart",
+        "importPath": "scrapper",
+        "description": "scrapper",
+        "isExtraImport": true,
+        "detail": "scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "get_headers",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "delay",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncWebCrawler",
+        "importPath": "crawl4ai",
+        "description": "crawl4ai",
+        "isExtraImport": true,
+        "detail": "crawl4ai",
+        "documentation": {}
+    },
+    {
+        "label": "walk_dir",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.find-corrupt-whisper-files",
+        "description": "ch-venv.Scripts.find-corrupt-whisper-files",
+        "peekOfCode": "def walk_dir(base_dir, delete_corrupt=False, verbose=False):\n    for dirpath, dirnames, filenames in os.walk(base_dir):\n        if verbose:\n            print(\"Scanning %s…\" % dirpath)\n        whisper_files = (os.path.join(dirpath, i) for i in filenames if i.endswith('.wsp'))\n        for f in whisper_files:\n            try:\n                info = whisper.info(f)\n            except whisper.CorruptWhisperFile:\n                if delete_corrupt:",
+        "detail": "ch-venv.Scripts.find-corrupt-whisper-files",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except OSError:\n                pass\n        tee_f.write(what)",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_root_hkey",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means\n        # must be HKCU\n        return winreg.HKEY_CURRENT_USER",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "create_shortcut",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def create_shortcut(\n    path, description, filename, arguments=\"\", workdir=\"\", iconpath=\"\", iconindex=0\n):\n    import pythoncom\n    from win32com.shell import shell\n    ilink = pythoncom.CoCreateInstance(\n        shell.CLSID_ShellLink,\n        None,\n        pythoncom.CLSCTX_INPROC_SERVER,\n        shell.IID_IShellLink,",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_special_folder_path",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_special_folder_path(path_name):\n    from win32com.shell import shell, shellcon\n    for maybe in \"\"\"\n        CSIDL_COMMON_STARTMENU CSIDL_STARTMENU CSIDL_COMMON_APPDATA\n        CSIDL_LOCAL_APPDATA CSIDL_APPDATA CSIDL_COMMON_DESKTOPDIRECTORY\n        CSIDL_DESKTOPDIRECTORY CSIDL_COMMON_STARTUP CSIDL_STARTUP\n        CSIDL_COMMON_PROGRAMS CSIDL_PROGRAMS CSIDL_PROGRAM_FILES_COMMON\n        CSIDL_PROGRAM_FILES CSIDL_FONTS\"\"\".split():\n        if maybe == path_name:\n            csidl = getattr(shellcon, maybe)",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info.major,\n        sys.version_info.minor,\n        suffix,",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(f\"-> {root_key_name}\\\\{key_name}[{value_name}]={value!r}\")\n        finally:",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(f\"-> DELETE {root_key_name}\\\\{key_name}[{value_name}]\")\n        finally:",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n    to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(f\"Failed to unregister COM objects: {why}\")\n    try:",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location: str) -> str:\n    location = os.path.abspath(location)\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError(\n            f'Path \"{location}\" is not an existing directory!'\n        )\n    return location\ndef main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python -m pywin32_postinstall -install\n    * or (shorter but you don't have control over which python environment is used)\n    > pywin32_postinstall -install\n    You need to execute this script, with a '-install' parameter,\n    to ensure the environment is setup correctly to install COM objects, services, etc.",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(\n    os.path.join(\n        tempfile.gettempdir(),  # Send output somewhere so it can be found if necessary...\n        \"pywin32_postinstall.log\",\n    ),\n    \"w\",\n)\nclass Tee:\n    def __init__(self, file):\n        self.f = file",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_postinstall",
+        "description": "ch-venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means\n        # must be HKCU",
+        "detail": "ch-venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_testall",
+        "description": "ch-venv.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(f\"*** Test script '{script}' exited with {result.returncode}\")\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": "ch-venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_testall",
+        "description": "ch-venv.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": "ch-venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.pywin32_testall",
+        "description": "ch-venv.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [project_root] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": "ch-venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "project_root",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_testall",
+        "description": "ch-venv.Scripts.pywin32_testall",
+        "peekOfCode": "project_root = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))\nsite_packages = [site.getusersitepackages()] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras",
+        "detail": "ch-venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_testall",
+        "description": "ch-venv.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [site.getusersitepackages()] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)",
+        "detail": "ch-venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.pywin32_testall",
+        "description": "ch-venv.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": "ch-venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "aggregationMethods",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.rrd2whisper",
+        "description": "ch-venv.Scripts.rrd2whisper",
+        "peekOfCode": "aggregationMethods = list(whisper.aggregationMethods)\n# RRD doesn't have a 'sum' or 'total' type\naggregationMethods.remove('sum')\n# RRD doesn't have a 'absmax' type\naggregationMethods.remove('absmax')\n# RRD doesn't have a 'absmin' type\naggregationMethods.remove('absmin')\noption_parser = optparse.OptionParser(usage='''%prog rrd_path''')\noption_parser.add_option(\n    '--xFilesFactor',",
+        "detail": "ch-venv.Scripts.rrd2whisper",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.rrd2whisper",
+        "description": "ch-venv.Scripts.rrd2whisper",
+        "peekOfCode": "option_parser = optparse.OptionParser(usage='''%prog rrd_path''')\noption_parser.add_option(\n    '--xFilesFactor',\n    help=\"The xFilesFactor to use in the output file. \" +\n    \"Defaults to the input RRD's xFilesFactor\",\n    default=None,\n    type='float')\noption_parser.add_option(\n    '--aggregationMethod',\n    help=\"The consolidation function to fetch from on input and \" +",
+        "detail": "ch-venv.Scripts.rrd2whisper",
+        "documentation": {}
+    },
+    {
+        "label": "rrd_path",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.rrd2whisper",
+        "description": "ch-venv.Scripts.rrd2whisper",
+        "peekOfCode": "rrd_path = args[0]\ntry:\n  rrd_info = rrdtool.info(rrd_path)\nexcept rrdtool.error as exc:\n  raise SystemExit('[ERROR] %s' % str(exc))\nseconds_per_pdp = rrd_info['step']\n# Reconcile old vs new python-rrdtool APIs (yuck)\n# leave consistent 'rras' and 'datasources' lists\nif 'rra' in rrd_info:\n  rras = rrd_info['rra']",
+        "detail": "ch-venv.Scripts.rrd2whisper",
+        "documentation": {}
+    },
+    {
+        "label": "seconds_per_pdp",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.rrd2whisper",
+        "description": "ch-venv.Scripts.rrd2whisper",
+        "peekOfCode": "seconds_per_pdp = rrd_info['step']\n# Reconcile old vs new python-rrdtool APIs (yuck)\n# leave consistent 'rras' and 'datasources' lists\nif 'rra' in rrd_info:\n  rras = rrd_info['rra']\nelse:\n  rra_indices = []\n  for key in rrd_info:\n    if key.startswith('rra['):\n      index = int(key.split('[')[1].split(']')[0])",
+        "detail": "ch-venv.Scripts.rrd2whisper",
+        "documentation": {}
+    },
+    {
+        "label": "relevant_rras",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.rrd2whisper",
+        "description": "ch-venv.Scripts.rrd2whisper",
+        "peekOfCode": "relevant_rras = []\nfor rra in rras:\n  if rra['cf'] == options.aggregationMethod.upper():\n    relevant_rras.append(rra)\nif not relevant_rras:\n  err = \"[ERROR] Unable to find any RRAs with consolidation function: %s\" % \\\n        options.aggregationMethod.upper()\n  raise SystemExit(err)\narchives = []\nxFilesFactor = options.xFilesFactor",
+        "detail": "ch-venv.Scripts.rrd2whisper",
+        "documentation": {}
+    },
+    {
+        "label": "archives",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.rrd2whisper",
+        "description": "ch-venv.Scripts.rrd2whisper",
+        "peekOfCode": "archives = []\nxFilesFactor = options.xFilesFactor\nfor rra in relevant_rras:\n  precision = rra['pdp_per_row'] * seconds_per_pdp\n  points = rra['rows']\n  if not xFilesFactor:\n    xFilesFactor = rra['xff']\n  archives.append((precision, points))\nfor datasource in datasources:\n  now = int(time.time())",
+        "detail": "ch-venv.Scripts.rrd2whisper",
+        "documentation": {}
+    },
+    {
+        "label": "xFilesFactor",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.rrd2whisper",
+        "description": "ch-venv.Scripts.rrd2whisper",
+        "peekOfCode": "xFilesFactor = options.xFilesFactor\nfor rra in relevant_rras:\n  precision = rra['pdp_per_row'] * seconds_per_pdp\n  points = rra['rows']\n  if not xFilesFactor:\n    xFilesFactor = rra['xff']\n  archives.append((precision, points))\nfor datasource in datasources:\n  now = int(time.time())\n  suffix = '_%s' % datasource if len(datasources) > 1 else ''",
+        "detail": "ch-venv.Scripts.rrd2whisper",
+        "documentation": {}
+    },
+    {
+        "label": "config_schemas",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "def config_schemas(cfg):\n    schema_conf = ConfigObj(cfg)\n    for schema in schema_conf.items():\n        item = schema[1]['pattern']\n        if item == '.*':\n            DEFAULT_SCHEMA['retentions'] = schema[1]['retentions']\n        else:\n            if item[0] == '^':\n                item = item[1:]\n            SCHEMA_LIST[item] = {'retentions': schema[1]['retentions'],",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "fix_metric",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "def fix_metric(metric):\n    if not SCHEMA_LIST:\n        LOG.error(\"Didn't initialize schemas!\")\n        return []\n    if DEBUG:\n        LOG.info(\"Testing %s for modification\" % metric)\n    devnull = open(os.devnull, 'w')\n    command_string = list(BASE_COMMAND) + [metric]\n    retention = DEFAULT_SCHEMA['retentions']\n    matching = metric[len(ROOT_PATH):].replace('/', '.')",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "search_and_fix",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "def search_and_fix(subdir):\n    if not SCHEMA_LIST:\n        LOG.error(\"Didn't initialize schemas!\")\n        return\n    fpath = os.path.join(ROOT_PATH, subdir)\n    pool = Pool(cpu_count())\n    LOG.info('Creating new storage schemas for metrics under %s ...' % fpath)\n    results = pool.map(fix_metric, _find_metrics(fpath), 100)\n    pool.close()\n    pool.join()",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "cli_opts",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "def cli_opts():\n    parser = argparse.ArgumentParser(\"Correct storage settings on multiple whisper files\")\n    parser.add_argument('--cfg', action='store', dest='cfg',\n                        help='The storage-schemas.conf file path',\n                        required=True)\n    parser.add_argument('--path', action='store', dest='path',\n                        help='The root path to find metrics in',\n                        required=True)\n    parser.add_argument('--debug', action='store_true', dest='debug',\n                        help='Display debug information',",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "LOG",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "LOG = logging.getLogger()\nLOG.setLevel(logging.INFO)\nSCHEMA_LIST = {}\n# The very basic default retentions\nDEFAULT_SCHEMA = {'match': re.compile('.*'),\n                  'retentions': '1m:7d'}\nDEBUG = False\nDRY_RUN = False\nROOT_PATH = \"\"\ndef config_schemas(cfg):",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "SCHEMA_LIST",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "SCHEMA_LIST = {}\n# The very basic default retentions\nDEFAULT_SCHEMA = {'match': re.compile('.*'),\n                  'retentions': '1m:7d'}\nDEBUG = False\nDRY_RUN = False\nROOT_PATH = \"\"\ndef config_schemas(cfg):\n    schema_conf = ConfigObj(cfg)\n    for schema in schema_conf.items():",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SCHEMA",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "DEFAULT_SCHEMA = {'match': re.compile('.*'),\n                  'retentions': '1m:7d'}\nDEBUG = False\nDRY_RUN = False\nROOT_PATH = \"\"\ndef config_schemas(cfg):\n    schema_conf = ConfigObj(cfg)\n    for schema in schema_conf.items():\n        item = schema[1]['pattern']\n        if item == '.*':",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "DEBUG = False\nDRY_RUN = False\nROOT_PATH = \"\"\ndef config_schemas(cfg):\n    schema_conf = ConfigObj(cfg)\n    for schema in schema_conf.items():\n        item = schema[1]['pattern']\n        if item == '.*':\n            DEFAULT_SCHEMA['retentions'] = schema[1]['retentions']\n        else:",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "DRY_RUN",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "DRY_RUN = False\nROOT_PATH = \"\"\ndef config_schemas(cfg):\n    schema_conf = ConfigObj(cfg)\n    for schema in schema_conf.items():\n        item = schema[1]['pattern']\n        if item == '.*':\n            DEFAULT_SCHEMA['retentions'] = schema[1]['retentions']\n        else:\n            if item[0] == '^':",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_PATH",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.update-storage-times",
+        "description": "ch-venv.Scripts.update-storage-times",
+        "peekOfCode": "ROOT_PATH = \"\"\ndef config_schemas(cfg):\n    schema_conf = ConfigObj(cfg)\n    for schema in schema_conf.items():\n        item = schema[1]['pattern']\n        if item == '.*':\n            DEFAULT_SCHEMA['retentions'] = schema[1]['retentions']\n        else:\n            if item[0] == '^':\n                item = item[1:]",
+        "detail": "ch-venv.Scripts.update-storage-times",
+        "documentation": {}
+    },
+    {
+        "label": "processMetric",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "def processMetric(fullPath, schemas, agg_schemas):\n    \"\"\"\n        method to process a given metric, and resize it if necessary\n        Parameters:\n            fullPath    - full path to the metric whisper file\n            schemas     - carbon storage schemas loaded from config\n            agg_schemas - carbon storage aggregation schemas load from confg\n    \"\"\"\n    schema_config_args = ''\n    schema_file_args = ''",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "getMetricFromPath",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "def getMetricFromPath(filePath):\n    \"\"\"\n        this method takes the full file path of a whisper file an converts it\n        to a gaphite metric name\n        Parameters:\n            filePath - full file path to a whisper file\n        Returns a string representing the metric name\n    \"\"\"\n    # sanitize directory since we may get a trailing slash or not, and if we\n    # don't it creates a leading '.'",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "confirm",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "def confirm(question, error_response='Valid options : yes or no'):\n    \"\"\"\n         ask the user if they would like to perform the action\n         Parameters:\n             question       - the question you would like to ask the user to confirm.\n             error_response - the message to display if an invalid option is given.\n    \"\"\"\n    while True:\n        answer = input(question).lower()\n        if answer in ('y', 'yes'):",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "whisperResizeExecutable",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "whisperResizeExecutable = find_executable(\"whisper-resize.py\")\nif whisperResizeExecutable is None:\n    whisperResizeExecutable = find_executable(\"whisper-resize\")\n    if whisperResizeExecutable is None:\n        # Probably will fail later, set it nevertheless\n        whisperResizeExecutable = \"whisper-resize.py\"\noption_parser = OptionParser(\n    usage='''%prog storagePath configPath\nstoragePath   the Path to the directory containing whisper files (CAN NOT BE A\n              SUBDIR, use --subdir for that)",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "option_parser = OptionParser(\n    usage='''%prog storagePath configPath\nstoragePath   the Path to the directory containing whisper files (CAN NOT BE A\n              SUBDIR, use --subdir for that)\nconfigPath    the path to your carbon config files\n''', version=\"%prog 0.1\")\noption_parser.add_option(\n    '--doit', default=False, action='store_true',\n    help=\"This is not a drill, lets do it\")\noption_parser.add_option(",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "storagePath",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "storagePath = args[0]\nconfigPath = args[1]\n# check to see if we are processing a subfolder\n# we need to have a separate config option for this since\n# otherwise the metric test thinks the metric is at the root\n# of the storage path and can match schemas incorrectly\nif options.subdir is None:\n    processPath = args[0]\nelse:\n    processPath = options.subdir",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "configPath",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "configPath = args[1]\n# check to see if we are processing a subfolder\n# we need to have a separate config option for this since\n# otherwise the metric test thinks the metric is at the root\n# of the storage path and can match schemas incorrectly\nif options.subdir is None:\n    processPath = args[0]\nelse:\n    processPath = options.subdir\n# Injecting the Whisper Lib Path if needed",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "settings.CONF_DIR",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "settings.CONF_DIR = configPath\nsettings.LOCAL_DATA_DIR = storagePath\n# import these once we have the settings figured out\nfrom carbon.storage import loadStorageSchemas, loadAggregationSchemas\n# Load the Defined Schemas from our config files\nschemas = loadStorageSchemas()\nagg_schemas = loadAggregationSchemas()\n# check to see if a metric needs to be resized based on the current config\ndef processMetric(fullPath, schemas, agg_schemas):\n    \"\"\"",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "settings.LOCAL_DATA_DIR",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "settings.LOCAL_DATA_DIR = storagePath\n# import these once we have the settings figured out\nfrom carbon.storage import loadStorageSchemas, loadAggregationSchemas\n# Load the Defined Schemas from our config files\nschemas = loadStorageSchemas()\nagg_schemas = loadAggregationSchemas()\n# check to see if a metric needs to be resized based on the current config\ndef processMetric(fullPath, schemas, agg_schemas):\n    \"\"\"\n        method to process a given metric, and resize it if necessary",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "schemas = loadStorageSchemas()\nagg_schemas = loadAggregationSchemas()\n# check to see if a metric needs to be resized based on the current config\ndef processMetric(fullPath, schemas, agg_schemas):\n    \"\"\"\n        method to process a given metric, and resize it if necessary\n        Parameters:\n            fullPath    - full path to the metric whisper file\n            schemas     - carbon storage schemas loaded from config\n            agg_schemas - carbon storage aggregation schemas load from confg",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "agg_schemas",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-resize",
+        "description": "ch-venv.Scripts.whisper-auto-resize",
+        "peekOfCode": "agg_schemas = loadAggregationSchemas()\n# check to see if a metric needs to be resized based on the current config\ndef processMetric(fullPath, schemas, agg_schemas):\n    \"\"\"\n        method to process a given metric, and resize it if necessary\n        Parameters:\n            fullPath    - full path to the metric whisper file\n            schemas     - carbon storage schemas loaded from config\n            agg_schemas - carbon storage aggregation schemas load from confg\n    \"\"\"",
+        "detail": "ch-venv.Scripts.whisper-auto-resize",
+        "documentation": {}
+    },
+    {
+        "label": "update_value",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-auto-update",
+        "description": "ch-venv.Scripts.whisper-auto-update",
+        "peekOfCode": "def update_value(timestamp, value):\n  if value is None:\n    return value\n  return value * 1024 * 1024 * 1024\n# Ignore SIGPIPE\nsignal.signal(signal.SIGPIPE, signal.SIG_DFL)\nnow = int(time.time())\nyesterday = now - (60 * 60 * 24)\noption_parser = optparse.OptionParser(usage='''%prog [options] path''')\noption_parser.add_option(",
+        "detail": "ch-venv.Scripts.whisper-auto-update",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-update",
+        "description": "ch-venv.Scripts.whisper-auto-update",
+        "peekOfCode": "now = int(time.time())\nyesterday = now - (60 * 60 * 24)\noption_parser = optparse.OptionParser(usage='''%prog [options] path''')\noption_parser.add_option(\n  '--from', default=yesterday, type='int', dest='_from',\n  help=(\"Unix epoch time of the beginning of \"\n        \"your requested interval (default: 24 hours ago)\"))\noption_parser.add_option(\n  '--until', default=now, type='int',\n  help=\"Unix epoch time of the end of your requested interval (default: now)\")",
+        "detail": "ch-venv.Scripts.whisper-auto-update",
+        "documentation": {}
+    },
+    {
+        "label": "yesterday",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-update",
+        "description": "ch-venv.Scripts.whisper-auto-update",
+        "peekOfCode": "yesterday = now - (60 * 60 * 24)\noption_parser = optparse.OptionParser(usage='''%prog [options] path''')\noption_parser.add_option(\n  '--from', default=yesterday, type='int', dest='_from',\n  help=(\"Unix epoch time of the beginning of \"\n        \"your requested interval (default: 24 hours ago)\"))\noption_parser.add_option(\n  '--until', default=now, type='int',\n  help=\"Unix epoch time of the end of your requested interval (default: now)\")\noption_parser.add_option(",
+        "detail": "ch-venv.Scripts.whisper-auto-update",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-update",
+        "description": "ch-venv.Scripts.whisper-auto-update",
+        "peekOfCode": "option_parser = optparse.OptionParser(usage='''%prog [options] path''')\noption_parser.add_option(\n  '--from', default=yesterday, type='int', dest='_from',\n  help=(\"Unix epoch time of the beginning of \"\n        \"your requested interval (default: 24 hours ago)\"))\noption_parser.add_option(\n  '--until', default=now, type='int',\n  help=\"Unix epoch time of the end of your requested interval (default: now)\")\noption_parser.add_option(\n  '--pretty', default=False, action='store_true',",
+        "detail": "ch-venv.Scripts.whisper-auto-update",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-update",
+        "description": "ch-venv.Scripts.whisper-auto-update",
+        "peekOfCode": "path = args[0]\nfrom_time = int(options._from)\nuntil_time = int(options.until)\ntry:\n  data = whisper.fetch(path, from_time, until_time)\n  if not data:\n    raise SystemExit('No data in selected timerange')\n  (timeInfo, values_old) = data\nexcept whisper.WhisperException as exc:\n  raise SystemExit('[ERROR] %s' % str(exc))",
+        "detail": "ch-venv.Scripts.whisper-auto-update",
+        "documentation": {}
+    },
+    {
+        "label": "from_time",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-update",
+        "description": "ch-venv.Scripts.whisper-auto-update",
+        "peekOfCode": "from_time = int(options._from)\nuntil_time = int(options.until)\ntry:\n  data = whisper.fetch(path, from_time, until_time)\n  if not data:\n    raise SystemExit('No data in selected timerange')\n  (timeInfo, values_old) = data\nexcept whisper.WhisperException as exc:\n  raise SystemExit('[ERROR] %s' % str(exc))\n(start, end, step) = timeInfo",
+        "detail": "ch-venv.Scripts.whisper-auto-update",
+        "documentation": {}
+    },
+    {
+        "label": "until_time",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-update",
+        "description": "ch-venv.Scripts.whisper-auto-update",
+        "peekOfCode": "until_time = int(options.until)\ntry:\n  data = whisper.fetch(path, from_time, until_time)\n  if not data:\n    raise SystemExit('No data in selected timerange')\n  (timeInfo, values_old) = data\nexcept whisper.WhisperException as exc:\n  raise SystemExit('[ERROR] %s' % str(exc))\n(start, end, step) = timeInfo\nt = start",
+        "detail": "ch-venv.Scripts.whisper-auto-update",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-auto-update",
+        "description": "ch-venv.Scripts.whisper-auto-update",
+        "peekOfCode": "t = start\nfor value_old in values_old:\n  value_str_old = str(value_old)\n  value_new = update_value(t, value_old)\n  value_str_new = str(value_new)\n  if options.pretty:\n    timestr = time.ctime(t)\n  else:\n    timestr = str(t)\n  print(\"%s\\t%s -> %s\" % (timestr, value_str_old, value_str_new))",
+        "detail": "ch-venv.Scripts.whisper-auto-update",
+        "documentation": {}
+    },
+    {
+        "label": "byte_format",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-create",
+        "description": "ch-venv.Scripts.whisper-create",
+        "peekOfCode": "def byte_format(num):\n  for x in ['bytes', 'KB', 'MB']:\n    if num < 1024.0:\n      return \"%.3f%s\" % (num, x)\n    num /= 1024.0\n  return \"%.3f%s\" % (num, 'GB')\n# Ignore SIGPIPE\ntry:\n  signal.signal(signal.SIGPIPE, signal.SIG_DFL)\nexcept AttributeError:",
+        "detail": "ch-venv.Scripts.whisper-create",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-create",
+        "description": "ch-venv.Scripts.whisper-create",
+        "peekOfCode": "option_parser = optparse.OptionParser(\n    usage='''%prog path timePerPoint:timeToStore [timePerPoint:timeToStore]*\n%prog --estimate timePerPoint:timeToStore [timePerPoint:timeToStore]*\ntimePerPoint and timeToStore specify lengths of time, for example:\n60:1440      60 seconds per datapoint, 1440 datapoints = 1 day of retention\n15m:8        15 minutes per datapoint, 8 datapoints = 2 hours of retention\n1h:7d        1 hour per datapoint, 7 days of retention\n12h:2y       12 hours per datapoint, 2 years of retention\n''')\noption_parser.add_option('--xFilesFactor', default=0.5, type='float')",
+        "detail": "ch-venv.Scripts.whisper-create",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-create",
+        "description": "ch-venv.Scripts.whisper-create",
+        "peekOfCode": "path = args[0]\narchives = [whisper.parseRetentionDef(retentionDef)\n            for retentionDef in args[1:]]\nif os.path.exists(path) and options.overwrite:\n  print('Overwriting existing file: %s' % path)\n  os.unlink(path)\ntry:\n  whisper.create(path, archives, xFilesFactor=options.xFilesFactor,\n                 aggregationMethod=options.aggregationMethod, sparse=options.sparse,\n                 useFallocate=options.fallocate)",
+        "detail": "ch-venv.Scripts.whisper-create",
+        "documentation": {}
+    },
+    {
+        "label": "archives",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-create",
+        "description": "ch-venv.Scripts.whisper-create",
+        "peekOfCode": "archives = [whisper.parseRetentionDef(retentionDef)\n            for retentionDef in args[1:]]\nif os.path.exists(path) and options.overwrite:\n  print('Overwriting existing file: %s' % path)\n  os.unlink(path)\ntry:\n  whisper.create(path, archives, xFilesFactor=options.xFilesFactor,\n                 aggregationMethod=options.aggregationMethod, sparse=options.sparse,\n                 useFallocate=options.fallocate)\nexcept whisper.WhisperException as exc:",
+        "detail": "ch-venv.Scripts.whisper-create",
+        "documentation": {}
+    },
+    {
+        "label": "size",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-create",
+        "description": "ch-venv.Scripts.whisper-create",
+        "peekOfCode": "size = os.stat(path).st_size\nprint('Created: %s (%d bytes)' % (path, size))",
+        "detail": "ch-venv.Scripts.whisper-create",
+        "documentation": {}
+    },
+    {
+        "label": "print_diffs",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-diff",
+        "description": "ch-venv.Scripts.whisper-diff",
+        "peekOfCode": "def print_diffs(diffs, pretty=True, headers=True):\n  if pretty:\n    h = \"%7s %11s %13s %13s\\n\"\n    f = \"%7s %11d %13s %13s\\n\"\n  else:\n    h = \"%s %s %s %s\\n\"\n    f = \"%s %d %s %s\\n\"\n  if headers:\n    sys.stdout.write(h % ('archive', 'timestamp', 'value_a', 'value_b'))\n  for archive, points, total in diffs:",
+        "detail": "ch-venv.Scripts.whisper-diff",
+        "documentation": {}
+    },
+    {
+        "label": "print_summary",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-diff",
+        "description": "ch-venv.Scripts.whisper-diff",
+        "peekOfCode": "def print_summary(diffs, pretty=True, headers=True):\n  if pretty:\n    f = \"%7s %9s %9s\\n\"\n  else:\n    f = \"%s %s %s\\n\"\n  if headers:\n    sys.stdout.write(f % ('archive', 'total', 'differing'))\n  for archive, points, total in diffs:\n    sys.stdout.write(f % (archive, total, points.__len__()))\ndef print_summary_json(diffs, path_a, path_b):",
+        "detail": "ch-venv.Scripts.whisper-diff",
+        "documentation": {}
+    },
+    {
+        "label": "print_summary_json",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-diff",
+        "description": "ch-venv.Scripts.whisper-diff",
+        "peekOfCode": "def print_summary_json(diffs, path_a, path_b):\n  print(json.dumps({'path_a': path_a,\n                    'path_b': path_b,\n                    'archives': [{'archive': archive,\n                                  'total': total,\n                                  'points': points.__len__()}\n                                 for archive, points, total in diffs]},\n                   sort_keys=True, indent=2, separators=(',', ' : ')))\ndef print_diffs_json(diffs, path_a, path_b):\n  print(json.dumps({'path_a': path_a,",
+        "detail": "ch-venv.Scripts.whisper-diff",
+        "documentation": {}
+    },
+    {
+        "label": "print_diffs_json",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-diff",
+        "description": "ch-venv.Scripts.whisper-diff",
+        "peekOfCode": "def print_diffs_json(diffs, path_a, path_b):\n  print(json.dumps({'path_a': path_a,\n                    'path_b': path_b,\n                    'archives': [{'archive': archive,\n                                  'total': total,\n                                  'points': points.__len__(),\n                                  'datapoint': [{\n                                      'timestamp': p[0],\n                                      'value_a': p[1],\n                                      'value_b': p[2]",
+        "detail": "ch-venv.Scripts.whisper-diff",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-diff",
+        "description": "ch-venv.Scripts.whisper-diff",
+        "peekOfCode": "def main():\n  archive_diffs = whisper.diff(path_a, path_b, ignore_empty=options.ignore_empty,\n                               until_time=until_time)\n  if options.summary:\n    if options.json:\n      print_summary_json(archive_diffs, path_a, path_b)\n    else:\n      print_summary(archive_diffs, pretty=(not options.columns),\n                    headers=(not options.no_headers))\n  else:",
+        "detail": "ch-venv.Scripts.whisper-diff",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-diff",
+        "description": "ch-venv.Scripts.whisper-diff",
+        "peekOfCode": "option_parser = optparse.OptionParser(usage='''%prog [options] path_a path_b''')\noption_parser.add_option('--summary', default=False, action='store_true',\n                         help=\"show summary of differences\")\noption_parser.add_option('--ignore-empty', default=False, action='store_true',\n                         help=\"skip comparison if either value is undefined\")\noption_parser.add_option('--columns', default=False, action='store_true',\n                         help=\"print output in simple columns\")\noption_parser.add_option('--no-headers', default=False, action='store_true',\n                         help=\"do not print column headers\")\noption_parser.add_option('--until', default=None, type='int',",
+        "detail": "ch-venv.Scripts.whisper-diff",
+        "documentation": {}
+    },
+    {
+        "label": "mmap_file",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-dump",
+        "description": "ch-venv.Scripts.whisper-dump",
+        "peekOfCode": "def mmap_file(filename):\n  fd = os.open(filename, os.O_RDONLY)\n  map = mmap.mmap(fd, os.fstat(fd).st_size, prot=mmap.PROT_READ)\n  os.close(fd)\n  return map\ndef read_header(map):\n  try:\n    (aggregationType, maxRetention, xFilesFactor, archiveCount) \\\n      = struct.unpack(whisper.metadataFormat, map[:whisper.metadataSize])\n  except (struct.error, ValueError, TypeError):",
+        "detail": "ch-venv.Scripts.whisper-dump",
+        "documentation": {}
+    },
+    {
+        "label": "read_header",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-dump",
+        "description": "ch-venv.Scripts.whisper-dump",
+        "peekOfCode": "def read_header(map):\n  try:\n    (aggregationType, maxRetention, xFilesFactor, archiveCount) \\\n      = struct.unpack(whisper.metadataFormat, map[:whisper.metadataSize])\n  except (struct.error, ValueError, TypeError):\n    raise whisper.CorruptWhisperFile(\"Unable to unpack header\")\n  archives = []\n  archiveOffset = whisper.metadataSize\n  for i in xrange(archiveCount):\n    try:",
+        "detail": "ch-venv.Scripts.whisper-dump",
+        "documentation": {}
+    },
+    {
+        "label": "dump_header",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-dump",
+        "description": "ch-venv.Scripts.whisper-dump",
+        "peekOfCode": "def dump_header(header):\n  print('Meta data:')\n  print('  aggregation method: %s' % header['aggregationMethod'])\n  print('  max retention: %d' % header['maxRetention'])\n  print('  xFilesFactor: %g' % header['xFilesFactor'])\n  print(\"\")\n  dump_archive_headers(header['archives'])\ndef dump_archive_headers(archives):\n  for i, archive in enumerate(archives):\n    print('Archive %d info:' % i)",
+        "detail": "ch-venv.Scripts.whisper-dump",
+        "documentation": {}
+    },
+    {
+        "label": "dump_archive_headers",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-dump",
+        "description": "ch-venv.Scripts.whisper-dump",
+        "peekOfCode": "def dump_archive_headers(archives):\n  for i, archive in enumerate(archives):\n    print('Archive %d info:' % i)\n    print('  offset: %d' % archive['offset'])\n    print('  seconds per point: %d' % archive['secondsPerPoint'])\n    print('  points: %d' % archive['points'])\n    print('  retention: %d' % archive['retention'])\n    print('  size: %d' % archive['size'])\n    print(\"\")\ndef dump_archives(archives, options):",
+        "detail": "ch-venv.Scripts.whisper-dump",
+        "documentation": {}
+    },
+    {
+        "label": "dump_archives",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-dump",
+        "description": "ch-venv.Scripts.whisper-dump",
+        "peekOfCode": "def dump_archives(archives, options):\n  for i, archive in enumerate(archives):\n    if not options.raw:\n      print('Archive %d data:' % i)\n    offset = archive['offset']\n    for point in xrange(archive['points']):\n      (timestamp, value) = struct.unpack(\n        whisper.pointFormat,\n        map[offset:offset + whisper.pointSize]\n      )",
+        "detail": "ch-venv.Scripts.whisper-dump",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-dump",
+        "description": "ch-venv.Scripts.whisper-dump",
+        "peekOfCode": "option_parser = optparse.OptionParser(usage='''%prog path''')\noption_parser.add_option(\n  '--pretty', default=False, action='store_true',\n  help=\"Show human-readable timestamps instead of unix times\")\noption_parser.add_option(\n  '-t', '--time-format', action='store', type='string', dest='time_format',\n  help='Time format to use with --pretty; see time.strftime()')\noption_parser.add_option(\n  '-r', '--raw', default=False, action='store_true',\n  help='Dump value only in the same format for whisper-update (UTC timestamps)')",
+        "detail": "ch-venv.Scripts.whisper-dump",
+        "documentation": {}
+    },
+    {
+        "label": "map",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-dump",
+        "description": "ch-venv.Scripts.whisper-dump",
+        "peekOfCode": "map = mmap_file(path)\nheader = read_header(map)\nif not options.raw:\n  dump_header(header)\ndump_archives(header['archives'], options)",
+        "detail": "ch-venv.Scripts.whisper-dump",
+        "documentation": {}
+    },
+    {
+        "label": "header",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-dump",
+        "description": "ch-venv.Scripts.whisper-dump",
+        "peekOfCode": "header = read_header(map)\nif not options.raw:\n  dump_header(header)\ndump_archives(header['archives'], options)",
+        "detail": "ch-venv.Scripts.whisper-dump",
+        "documentation": {}
+    },
+    {
+        "label": "_DROP_FUNCTIONS",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-fetch",
+        "description": "ch-venv.Scripts.whisper-fetch",
+        "peekOfCode": "_DROP_FUNCTIONS = {\n    'zeroes': lambda x: x != 0,\n    'nulls': lambda x: x is not None,\n    'empty': lambda x: x != 0 and x is not None\n}\n# Ignore SIGPIPE\nsignal.signal(signal.SIGPIPE, signal.SIG_DFL)\nnow = int(time.time())\nyesterday = now - (60 * 60 * 24)\noption_parser = optparse.OptionParser(usage='''%prog [options] path''')",
+        "detail": "ch-venv.Scripts.whisper-fetch",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-fetch",
+        "description": "ch-venv.Scripts.whisper-fetch",
+        "peekOfCode": "now = int(time.time())\nyesterday = now - (60 * 60 * 24)\noption_parser = optparse.OptionParser(usage='''%prog [options] path''')\noption_parser.add_option(\n  '--from', default=yesterday, type='int', dest='_from',\n  help=(\"Unix epoch time of the beginning of \"\n        \"your requested interval (default: 24 hours ago)\"))\noption_parser.add_option(\n  '--until', default=now, type='int',\n  help=\"Unix epoch time of the end of your requested interval (default: now)\")",
+        "detail": "ch-venv.Scripts.whisper-fetch",
+        "documentation": {}
+    },
+    {
+        "label": "yesterday",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-fetch",
+        "description": "ch-venv.Scripts.whisper-fetch",
+        "peekOfCode": "yesterday = now - (60 * 60 * 24)\noption_parser = optparse.OptionParser(usage='''%prog [options] path''')\noption_parser.add_option(\n  '--from', default=yesterday, type='int', dest='_from',\n  help=(\"Unix epoch time of the beginning of \"\n        \"your requested interval (default: 24 hours ago)\"))\noption_parser.add_option(\n  '--until', default=now, type='int',\n  help=\"Unix epoch time of the end of your requested interval (default: now)\")\noption_parser.add_option(",
+        "detail": "ch-venv.Scripts.whisper-fetch",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-fetch",
+        "description": "ch-venv.Scripts.whisper-fetch",
+        "peekOfCode": "option_parser = optparse.OptionParser(usage='''%prog [options] path''')\noption_parser.add_option(\n  '--from', default=yesterday, type='int', dest='_from',\n  help=(\"Unix epoch time of the beginning of \"\n        \"your requested interval (default: 24 hours ago)\"))\noption_parser.add_option(\n  '--until', default=now, type='int',\n  help=\"Unix epoch time of the end of your requested interval (default: now)\")\noption_parser.add_option(\n  '--json', default=False, action='store_true',",
+        "detail": "ch-venv.Scripts.whisper-fetch",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-fetch",
+        "description": "ch-venv.Scripts.whisper-fetch",
+        "peekOfCode": "path = args[0]\nfrom_time = int(options._from)\nuntil_time = int(options.until)\ntry:\n  data = whisper.fetch(path, from_time, until_time)\n  if not data:\n    raise SystemExit('No data in selected timerange')\n  (timeInfo, values) = data\nexcept (whisper.WhisperException, IOError) as exc:\n  raise SystemExit('[ERROR] %s' % str(exc))",
+        "detail": "ch-venv.Scripts.whisper-fetch",
+        "documentation": {}
+    },
+    {
+        "label": "from_time",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-fetch",
+        "description": "ch-venv.Scripts.whisper-fetch",
+        "peekOfCode": "from_time = int(options._from)\nuntil_time = int(options.until)\ntry:\n  data = whisper.fetch(path, from_time, until_time)\n  if not data:\n    raise SystemExit('No data in selected timerange')\n  (timeInfo, values) = data\nexcept (whisper.WhisperException, IOError) as exc:\n  raise SystemExit('[ERROR] %s' % str(exc))\nif options.drop:",
+        "detail": "ch-venv.Scripts.whisper-fetch",
+        "documentation": {}
+    },
+    {
+        "label": "until_time",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-fetch",
+        "description": "ch-venv.Scripts.whisper-fetch",
+        "peekOfCode": "until_time = int(options.until)\ntry:\n  data = whisper.fetch(path, from_time, until_time)\n  if not data:\n    raise SystemExit('No data in selected timerange')\n  (timeInfo, values) = data\nexcept (whisper.WhisperException, IOError) as exc:\n  raise SystemExit('[ERROR] %s' % str(exc))\nif options.drop:\n  fcn = _DROP_FUNCTIONS.get(options.drop)",
+        "detail": "ch-venv.Scripts.whisper-fetch",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-fetch",
+        "description": "ch-venv.Scripts.whisper-fetch",
+        "peekOfCode": "t = start\nfor value in values:\n  if options.pretty:\n    if options.time_format:\n      timestr = time.strftime(options.time_format, time.localtime(t))\n    else:\n      timestr = time.ctime(t)\n  else:\n    timestr = str(t)\n  if value is None:",
+        "detail": "ch-venv.Scripts.whisper-fetch",
+        "documentation": {}
+    },
+    {
+        "label": "itemgetter",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-fill",
+        "description": "ch-venv.Scripts.whisper-fill",
+        "peekOfCode": "def itemgetter(*items):\n    if HAS_OPERATOR:\n        return operator.itemgetter(*items)\n    else:\n        if len(items) == 1:\n            item = items[0]\n            def g(obj):\n                return obj[item]\n        else:\n            def g(obj):",
+        "detail": "ch-venv.Scripts.whisper-fill",
+        "documentation": {}
+    },
+    {
+        "label": "fill",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-fill",
+        "description": "ch-venv.Scripts.whisper-fill",
+        "peekOfCode": "def fill(src, dst, tstart, tstop):\n    # fetch range start-stop from src, taking values from the highest\n    # precision archive, thus optionally requiring multiple fetch + merges\n    srcHeader = whisper.info(src)\n    srcArchives = srcHeader['archives']\n    srcArchives.sort(key=itemgetter('retention'))\n    # find oldest point in time, stored by both files\n    srcTime = int(time.time()) - srcHeader['maxRetention']\n    if tstart < srcTime and tstop < srcTime:\n        return",
+        "detail": "ch-venv.Scripts.whisper-fill",
+        "documentation": {}
+    },
+    {
+        "label": "fill_archives",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-fill",
+        "description": "ch-venv.Scripts.whisper-fill",
+        "peekOfCode": "def fill_archives(src, dst, startFrom):\n    header = whisper.info(dst)\n    archives = header['archives']\n    archives = sorted(archives, key=lambda t: t['retention'])\n    for archive in archives:\n        fromTime = time.time() - archive['retention']\n        if fromTime >= startFrom:\n            continue\n        (timeInfo, values) = whisper.fetch(dst, fromTime, startFrom)\n        (start, end, step) = timeInfo",
+        "detail": "ch-venv.Scripts.whisper-fill",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-fill",
+        "description": "ch-venv.Scripts.whisper-fill",
+        "peekOfCode": "def main():\n    option_parser = optparse.OptionParser(\n        usage='%prog [--lock] src dst',\n        description='copies data from src in dst, if missing')\n    option_parser.add_option(\n        '--lock', help='Lock whisper files',\n        default=False, action='store_true')\n    (options, args) = option_parser.parse_args()\n    if len(args) != 2:\n        option_parser.print_help()",
+        "detail": "ch-venv.Scripts.whisper-fill",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-info",
+        "description": "ch-venv.Scripts.whisper-info",
+        "peekOfCode": "option_parser = optparse.OptionParser(usage='''%prog [options] path [field]''')\noption_parser.add_option('--json', default=False, action='store_true',\n                         help=\"Output results in JSON form\")\n(options, args) = option_parser.parse_args()\nif len(args) < 1:\n  option_parser.print_help()\n  sys.exit(1)\npath = args[0]\nif len(args) > 1:\n  field = args[1]",
+        "detail": "ch-venv.Scripts.whisper-info",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-info",
+        "description": "ch-venv.Scripts.whisper-info",
+        "peekOfCode": "path = args[0]\nif len(args) > 1:\n  field = args[1]\nelse:\n  field = None\ntry:\n  info = whisper.info(path)\nexcept whisper.WhisperException as exc:\n  raise SystemExit('[ERROR] %s' % str(exc))\ninfo['fileSize'] = os.stat(path).st_size",
+        "detail": "ch-venv.Scripts.whisper-info",
+        "documentation": {}
+    },
+    {
+        "label": "info['fileSize']",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-info",
+        "description": "ch-venv.Scripts.whisper-info",
+        "peekOfCode": "info['fileSize'] = os.stat(path).st_size\nif field:\n  if field not in info:\n    print('Unknown field \"%s\". Valid fields are %s' % (field, ','.join(info)))\n    sys.exit(1)\n  print(info[field])\n  sys.exit(0)\nif options.json:\n  print(json.dumps(info, indent=2, separators=(',', ': ')))\nelse:",
+        "detail": "ch-venv.Scripts.whisper-info",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-merge",
+        "description": "ch-venv.Scripts.whisper-merge",
+        "peekOfCode": "option_parser = optparse.OptionParser(\n    usage='''%prog [options] from_path to_path''')\noption_parser.add_option(\n  '--from', default=None, type='int', dest='_from',\n  help=(\"Begining of interval, unix timestamp (default: epoch)\"))\noption_parser.add_option(\n  '--until', default=None, type='int',\n  help=\"End of interval, unix timestamp (default: now)\")\n(options, args) = option_parser.parse_args()\nif len(args) < 2:",
+        "detail": "ch-venv.Scripts.whisper-merge",
+        "documentation": {}
+    },
+    {
+        "label": "path_from",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-merge",
+        "description": "ch-venv.Scripts.whisper-merge",
+        "peekOfCode": "path_from = args[0]\npath_to = args[1]\nfor filename in (path_from, path_to):\n  if not os.path.exists(filename):\n    raise SystemExit('[ERROR] File \"%s\" does not exist!' % filename)\nwhisper.merge(path_from, path_to, options._from, options.until)",
+        "detail": "ch-venv.Scripts.whisper-merge",
+        "documentation": {}
+    },
+    {
+        "label": "path_to",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-merge",
+        "description": "ch-venv.Scripts.whisper-merge",
+        "peekOfCode": "path_to = args[1]\nfor filename in (path_from, path_to):\n  if not os.path.exists(filename):\n    raise SystemExit('[ERROR] File \"%s\" does not exist!' % filename)\nwhisper.merge(path_from, path_to, options._from, options.until)",
+        "detail": "ch-venv.Scripts.whisper-merge",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-resize",
+        "description": "ch-venv.Scripts.whisper-resize",
+        "peekOfCode": "now = int(time.time())\noption_parser = optparse.OptionParser(\n    usage='''%prog path timePerPoint:timeToStore [timePerPoint:timeToStore]*\ntimePerPoint and timeToStore specify lengths of time, for example:\n60:1440      60 seconds per datapoint, 1440 datapoints = 1 day of retention\n15m:8        15 minutes per datapoint, 8 datapoints = 2 hours of retention\n1h:7d        1 hour per datapoint, 7 days of retention\n12h:2y       12 hours per datapoint, 2 years of retention\n''')\noption_parser.add_option(",
+        "detail": "ch-venv.Scripts.whisper-resize",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-resize",
+        "description": "ch-venv.Scripts.whisper-resize",
+        "peekOfCode": "option_parser = optparse.OptionParser(\n    usage='''%prog path timePerPoint:timeToStore [timePerPoint:timeToStore]*\ntimePerPoint and timeToStore specify lengths of time, for example:\n60:1440      60 seconds per datapoint, 1440 datapoints = 1 day of retention\n15m:8        15 minutes per datapoint, 8 datapoints = 2 hours of retention\n1h:7d        1 hour per datapoint, 7 days of retention\n12h:2y       12 hours per datapoint, 2 years of retention\n''')\noption_parser.add_option(\n    '--xFilesFactor', default=None,",
+        "detail": "ch-venv.Scripts.whisper-resize",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-resize",
+        "description": "ch-venv.Scripts.whisper-resize",
+        "peekOfCode": "path = args[0]\nif not os.path.exists(path):\n  sys.stderr.write(\"[ERROR] File '%s' does not exist!\\n\\n\" % path)\n  option_parser.print_help()\n  sys.exit(1)\ninfo = whisper.info(path)\nnew_archives = [whisper.parseRetentionDef(retentionDef)\n                for retentionDef in args[1:]]\nold_archives = info['archives']\n# sort by precision, lowest to highest",
+        "detail": "ch-venv.Scripts.whisper-resize",
+        "documentation": {}
+    },
+    {
+        "label": "info",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-resize",
+        "description": "ch-venv.Scripts.whisper-resize",
+        "peekOfCode": "info = whisper.info(path)\nnew_archives = [whisper.parseRetentionDef(retentionDef)\n                for retentionDef in args[1:]]\nold_archives = info['archives']\n# sort by precision, lowest to highest\nold_archives.sort(key=lambda a: a['secondsPerPoint'], reverse=True)\nif options.xFilesFactor is None:\n  xff = info['xFilesFactor']\nelse:\n  xff = options.xFilesFactor",
+        "detail": "ch-venv.Scripts.whisper-resize",
+        "documentation": {}
+    },
+    {
+        "label": "new_archives",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-resize",
+        "description": "ch-venv.Scripts.whisper-resize",
+        "peekOfCode": "new_archives = [whisper.parseRetentionDef(retentionDef)\n                for retentionDef in args[1:]]\nold_archives = info['archives']\n# sort by precision, lowest to highest\nold_archives.sort(key=lambda a: a['secondsPerPoint'], reverse=True)\nif options.xFilesFactor is None:\n  xff = info['xFilesFactor']\nelse:\n  xff = options.xFilesFactor\nif options.aggregationMethod is None:",
+        "detail": "ch-venv.Scripts.whisper-resize",
+        "documentation": {}
+    },
+    {
+        "label": "old_archives",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-resize",
+        "description": "ch-venv.Scripts.whisper-resize",
+        "peekOfCode": "old_archives = info['archives']\n# sort by precision, lowest to highest\nold_archives.sort(key=lambda a: a['secondsPerPoint'], reverse=True)\nif options.xFilesFactor is None:\n  xff = info['xFilesFactor']\nelse:\n  xff = options.xFilesFactor\nif options.aggregationMethod is None:\n  aggregationMethod = info['aggregationMethod']\nelse:",
+        "detail": "ch-venv.Scripts.whisper-resize",
+        "documentation": {}
+    },
+    {
+        "label": "size",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-resize",
+        "description": "ch-venv.Scripts.whisper-resize",
+        "peekOfCode": "size = os.stat(newfile).st_size\nprint('Created: %s (%d bytes)' % (newfile, size))\nif options.aggregate:\n  # This is where data will be interpolated (best effort)\n  print('Migrating data with aggregation...')\n  all_datapoints = []\n  for archive in sorted(old_archives, key=lambda x: x['secondsPerPoint']):\n    # Loading all datapoints into memory for fast querying\n    timeinfo, values = archive['data']\n    new_datapoints = list(zip(range(*timeinfo), values))",
+        "detail": "ch-venv.Scripts.whisper-resize",
+        "documentation": {}
+    },
+    {
+        "label": "backup",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-resize",
+        "description": "ch-venv.Scripts.whisper-resize",
+        "peekOfCode": "backup = path + '.bak'\nprint('Renaming old database to: %s' % backup)\nos.rename(path, backup)\ntry:\n  print('Renaming new database to: %s' % path)\n  os.rename(tmpfile, path)\nexcept (OSError):\n  traceback.print_exc()\n  print('\\nOperation failed, restoring backup')\n  os.rename(backup, path)",
+        "detail": "ch-venv.Scripts.whisper-resize",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "description": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "peekOfCode": "option_parser = optparse.OptionParser(\n    usage='%%prog path <%s> [xFilesFactor]' % '|'.join(whisper.aggregationMethods))\n(options, args) = option_parser.parse_args()\nif len(args) < 2:\n  option_parser.print_help()\n  sys.exit(1)\npath = args[0]\naggregationMethod = args[1]\nxFilesFactor = None\nif len(args) == 3:",
+        "detail": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "description": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "peekOfCode": "path = args[0]\naggregationMethod = args[1]\nxFilesFactor = None\nif len(args) == 3:\n  xFilesFactor = args[2]\ntry:\n  oldAggregationMethod = whisper.setAggregationMethod(path, aggregationMethod, xFilesFactor)\nexcept IOError:\n  sys.stderr.write(\"[ERROR] File '%s' does not exist!\\n\\n\" % path)\n  option_parser.print_help()",
+        "detail": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "documentation": {}
+    },
+    {
+        "label": "aggregationMethod",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "description": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "peekOfCode": "aggregationMethod = args[1]\nxFilesFactor = None\nif len(args) == 3:\n  xFilesFactor = args[2]\ntry:\n  oldAggregationMethod = whisper.setAggregationMethod(path, aggregationMethod, xFilesFactor)\nexcept IOError:\n  sys.stderr.write(\"[ERROR] File '%s' does not exist!\\n\\n\" % path)\n  option_parser.print_help()\n  sys.exit(1)",
+        "detail": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "documentation": {}
+    },
+    {
+        "label": "xFilesFactor",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "description": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "peekOfCode": "xFilesFactor = None\nif len(args) == 3:\n  xFilesFactor = args[2]\ntry:\n  oldAggregationMethod = whisper.setAggregationMethod(path, aggregationMethod, xFilesFactor)\nexcept IOError:\n  sys.stderr.write(\"[ERROR] File '%s' does not exist!\\n\\n\" % path)\n  option_parser.print_help()\n  sys.exit(1)\nexcept whisper.WhisperException as exc:",
+        "detail": "ch-venv.Scripts.whisper-set-aggregation-method",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ch-venv.Scripts.whisper-set-xfilesfactor",
+        "description": "ch-venv.Scripts.whisper-set-xfilesfactor",
+        "peekOfCode": "def main():\n    \"\"\"Set xFilesFactor for existing whisper file\"\"\"\n    parser = argparse.ArgumentParser(\n        description='Set xFilesFactor for existing whisper file')\n    parser.add_argument('path', type=str, help='path to whisper file')\n    parser.add_argument('xff', metavar='xFilesFactor', type=float,\n                        help='new xFilesFactor, a float between 0 and 1')\n    args = parser.parse_args()\n    try:\n        old_xff = whisper.setXFilesFactor(args.path, args.xff)",
+        "detail": "ch-venv.Scripts.whisper-set-xfilesfactor",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-update",
+        "description": "ch-venv.Scripts.whisper-update",
+        "peekOfCode": "now = int(time.time())\noption_parser = optparse.OptionParser(\n  usage='''%prog [options] path [timestamp:value]*\n  If no values are passed as arguments, they are read one-per-line from stdin.''')\n(options, args) = option_parser.parse_args()\nif not args:\n  option_parser.print_help()\n  sys.exit(1)\npath = args[0]\nif len(args) >= 2:",
+        "detail": "ch-venv.Scripts.whisper-update",
+        "documentation": {}
+    },
+    {
+        "label": "option_parser",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-update",
+        "description": "ch-venv.Scripts.whisper-update",
+        "peekOfCode": "option_parser = optparse.OptionParser(\n  usage='''%prog [options] path [timestamp:value]*\n  If no values are passed as arguments, they are read one-per-line from stdin.''')\n(options, args) = option_parser.parse_args()\nif not args:\n  option_parser.print_help()\n  sys.exit(1)\npath = args[0]\nif len(args) >= 2:\n  datapoint_strings = args[1:]",
+        "detail": "ch-venv.Scripts.whisper-update",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-update",
+        "description": "ch-venv.Scripts.whisper-update",
+        "peekOfCode": "path = args[0]\nif len(args) >= 2:\n  datapoint_strings = args[1:]\nelse:\n  # no argv values, so read from stdin\n  datapoint_strings = sys.stdin\ndatapoint_strings = [point.replace('N:', '%d:' % now)\n                     for point in datapoint_strings]\ndatapoints = [tuple(point.split(':')) for point in datapoint_strings]\ntry:",
+        "detail": "ch-venv.Scripts.whisper-update",
+        "documentation": {}
+    },
+    {
+        "label": "datapoint_strings",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-update",
+        "description": "ch-venv.Scripts.whisper-update",
+        "peekOfCode": "datapoint_strings = [point.replace('N:', '%d:' % now)\n                     for point in datapoint_strings]\ndatapoints = [tuple(point.split(':')) for point in datapoint_strings]\ntry:\n  if len(datapoints) == 1:\n    timestamp, value = datapoints[0]\n    whisper.update(path, value, timestamp)\n  else:\n    whisper.update_many(path, datapoints)\nexcept whisper.WhisperException as exc:",
+        "detail": "ch-venv.Scripts.whisper-update",
+        "documentation": {}
+    },
+    {
+        "label": "datapoints",
+        "kind": 5,
+        "importPath": "ch-venv.Scripts.whisper-update",
+        "description": "ch-venv.Scripts.whisper-update",
+        "peekOfCode": "datapoints = [tuple(point.split(':')) for point in datapoint_strings]\ntry:\n  if len(datapoints) == 1:\n    timestamp, value = datapoints[0]\n    whisper.update(path, value, timestamp)\n  else:\n    whisper.update_many(path, datapoints)\nexcept whisper.WhisperException as exc:\n  raise SystemExit('[ERROR] %s' % str(exc))",
+        "detail": "ch-venv.Scripts.whisper-update",
+        "documentation": {}
+    },
+    {
+        "label": "extract_products_from_html",
+        "kind": 2,
+        "importPath": "data-engineering.extract",
+        "description": "data-engineering.extract",
+        "peekOfCode": "def extract_products_from_html(html_content):\n    # Extract the <script type=\"application/ld+json\"> ... </script> content\n    json_ld_pattern = re.compile(r'<script type=\"application/ld\\+json\"[^>]*>(.*?)</script>', re.DOTALL)\n    matches = json_ld_pattern.findall(html_content)\n    for match in matches:\n        try:\n            data = json.loads(match.strip())\n            if isinstance(data, dict) and data.get(\"@type\") == \"ItemList\":\n                items = data.get(\"itemListElement\", [])\n                products = []",
+        "detail": "data-engineering.extract",
+        "documentation": {}
+    },
+    {
+        "label": "products",
+        "kind": 5,
+        "importPath": "data-engineering.extract",
+        "description": "data-engineering.extract",
+        "peekOfCode": "products = extract_products_from_html(html)\n# Save to JSON\nwith open(\"output/prefab_houses_extracted.json\", \"w\", encoding=\"utf-8\") as out:\n    json.dump(products, out, indent=4, ensure_ascii=False)\nprint(f\"✅ Extracted {len(products)} products successfully.\")",
+        "detail": "data-engineering.extract",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_indiamart",
+        "kind": 2,
+        "importPath": "data-engineering.scrapper",
+        "description": "data-engineering.scrapper",
+        "peekOfCode": "def scrape_indiamart(url):\n    response = requests.get(url, headers=get_headers())\n    if response.status_code != 200:\n        print(f\"Failed to fetch {url}\")\n        return []\n    soup = BeautifulSoup(response.content, \"html.parser\")\n    product_list = []\n    # Targeting correct container\n    cards = soup.select(\"ul.recViewitemAll li\")\n    for card in cards:",
+        "detail": "data-engineering.scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "extract_json_ld",
+        "kind": 2,
+        "importPath": "data-engineering.test",
+        "description": "data-engineering.test",
+        "peekOfCode": "def extract_json_ld(html):\n    json_ld_blocks = re.findall(\n        r'<script type=\"application/ld\\+json\">(.*?)</script>',\n        html,\n        re.DOTALL\n    )\n    for block in json_ld_blocks:\n        try:\n            data = json.loads(block.strip())\n            if isinstance(data, dict) and data.get(\"@type\") == \"Product\":",
+        "detail": "data-engineering.test",
+        "documentation": {}
+    },
+    {
+        "label": "extract_attributes_from_html",
+        "kind": 2,
+        "importPath": "data-engineering.test",
+        "description": "data-engineering.test",
+        "peekOfCode": "def extract_attributes_from_html(html):\n    soup = BeautifulSoup(html, \"html.parser\")\n    attributes = {}\n    possible_keys = {\n        \"Material\": [\"material\"],\n        \"Built Type\": [\"built type\", \"structure type\"],\n        \"Use\": [\"use\"],\n        \"Usage/Application\": [\"usage/application\", \"application\"],\n        \"Country of Origin\": [\"country of origin\", \"origin\"],\n        \"Brand\": [\"brand\"]",
+        "detail": "data-engineering.test",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_product",
+        "kind": 2,
+        "importPath": "data-engineering.test",
+        "description": "data-engineering.test",
+        "peekOfCode": "def scrape_product(url):\n    try:\n        headers = {\n            \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36\"\n        }\n        response = requests.get(url, headers=headers, timeout=10)\n        if response.status_code != 200:\n            print(f\"❌ Failed to fetch: {url} - Status {response.status_code}\")\n            return {}\n        html = response.text",
+        "detail": "data-engineering.test",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "data-engineering.test",
+        "description": "data-engineering.test",
+        "peekOfCode": "def main():\n    input_file = \"output/prefab_houses_extracted.json\"\n    output_file = \"output/all_product_details.json\"\n    with open(input_file, \"r\", encoding=\"utf-8\") as f:\n        products = json.load(f)\n    results = []\n    for i, product in enumerate(products):\n        url = product.get(\"product_url\")\n        print(f\"🔍 [{i+1}/{len(products)}] Scraping: {url}\")\n        data = scrape_product(url)",
+        "detail": "data-engineering.test",
+        "documentation": {}
+    }
+]

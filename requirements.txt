@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+langchain-groq
+langchain-community
+pyttsx3
+faiss-cpu
+sentence-transformers
+PyPDF2
+gtts
+pywin32
+speechrecognition
+pypdf
