@@ -7,7 +7,6 @@ faiss-cpu
 sentence-transformers
 PyPDF2
 gtts
-pywin32
 speechrecognition
 pypdf
 pyaudio
