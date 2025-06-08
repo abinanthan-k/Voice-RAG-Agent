@@ -9,7 +9,6 @@ PyPDF2
 gtts
 speechrecognition
 pypdf
-pyaudio
 langgraph
 langchain-text-splitters
 langchain-huggingface
