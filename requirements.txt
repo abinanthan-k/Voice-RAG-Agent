@@ -10,3 +10,12 @@ gtts
 pywin32
 speechrecognition
 pypdf
+pyaudio
+langgraph
+openai-whisper
+langchain-text-splitters
+langchain-huggingface
+bs4
+streamlit
+pydub
+ffmpeg

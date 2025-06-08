@@ -18,7 +18,7 @@ lib/
 lib64/
 parts/
 sdist/
-new-venv/
+my-venv/
 var/
 wheels/
 share/python-wheels/
@@ -55,6 +55,12 @@ cover/
 # Translations
 *.mo
 *.pot
+
+# Test Files
+test.py
+metrics.py
+my_types.py
+
 
 # Django stuff:
 *.log
