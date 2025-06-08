@@ -16,4 +16,3 @@ langchain-huggingface
 bs4
 streamlit
 pydub
-ffmpeg
