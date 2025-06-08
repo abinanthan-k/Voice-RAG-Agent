@@ -26,7 +26,7 @@ elif option == "Enter URL":
             retriever = load_documents(url, "web")
 
 if retriever:
-    llm = ChatGroq(model="llama-3.1-8b-instant", api_key="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")
+    llm = ChatGroq(model="llama-3.1-8b-instant")
     with st.spinner("Loading RAG Chain"):
         rag_chain = load_rag_chain(llm, retriever)
 
